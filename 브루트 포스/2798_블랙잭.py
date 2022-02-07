@@ -32,6 +32,7 @@ for i in range(len(cards)):
 print(result)
 
 
+
 """
 예전에 풀었을 때, combinations 라이브러리를 사용하여 3개의 카드를 찾는 경우 모든 경우를 찾아서 m보다 크지 않으면서 가장 큰 값을 찾았다.
 현재는 Unpacking operation을 통해 출력하였다.
