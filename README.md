@@ -14,4 +14,4 @@ https://www.acmicpc.net/user/vividswan
 | 02. 13 | DFS와 BFS | 7569 |
 | 02. 14 | DFS와 BFS | 1697 |
 | 02. 15 | DFS와 BFS | 2206 7562 |
-| 02. 16 | DFS와 BFS | 1707 |
+| 02. 16 | DFS와 BFS | 1707 7576 |
