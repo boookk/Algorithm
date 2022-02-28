@@ -23,3 +23,4 @@ https://www.acmicpc.net/user/vividswan
 | 02. 24 | DP | 1003 |
 | 02. 25 | Tree | 11725|
 | 02. 26 | Tree | 1167 1967 1991 |
+| 02. 27 | Tree | 2263 5639 |
